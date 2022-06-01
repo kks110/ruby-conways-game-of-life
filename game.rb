@@ -1,5 +1,4 @@
 require './cell'
-require 'pry'
 
 class Game
   attr_accessor :board
